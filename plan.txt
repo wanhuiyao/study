@@ -1,0 +1,22 @@
+todo list:
+	C++17 + MS xpedite + MS log
+	Data Structures
+	Interview Questions
+	Shell Script
+	Vim
+	Linux Kernel
+	The Linux Programming
+	Operation System
+	Network
+	python + MS testplan
+English:
+	reading
+	vocabulary
+	speaking
+
+schedule:
+	7:10 - 7:40    Listening
+	8:35 - 9:00    Fast reading 2 articles
+	5:10 - 5:30    Rewiewing vocabulary
+	8:00 - 8:30    Full reading 1 article + speaking + document vocabulary
+	9:00 - 10:30   todo list
